@@ -4,7 +4,6 @@ Script to draw tree diagrams.
 Will only work for things that have 9 or less levels
 """
 import re
-from collections import defaultdict
 
 f = open("group.py", "r")
 
